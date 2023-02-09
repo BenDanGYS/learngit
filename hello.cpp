@@ -3,7 +3,8 @@ using namespace std;
 
 void test()
 {
-	cout << "This function is test" << endl;
+	cout << "This function is test" << esdlfka
+		;
 }
 
 int main() 
